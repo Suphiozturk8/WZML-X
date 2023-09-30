@@ -40,4 +40,4 @@ tenacity
 tgcrypto
 uvloop
 xattr
-yt-dlp==2023.7.6
+git+https://github.com/Suphiozturk8/yt-dlp.git
